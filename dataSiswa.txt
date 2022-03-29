@@ -1,8 +1,5 @@
 nama: Cecilia Siregar
 Jurusan: RPL
 
-nama: Lee Taeyong
-jurusan: Multimedia
-
 nama: Jeon Wonwoo
 jurusan: RPL
