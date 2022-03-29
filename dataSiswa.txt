@@ -1,5 +1,5 @@
 nama: Cecilia Siregar
-Jurusan: RPL
+
 
 nama: Jeon Wonwoo
 jurusan: RPL
