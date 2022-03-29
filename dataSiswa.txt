@@ -1,0 +1,8 @@
+nama: Cecilia Siregar
+Jurusan: RPL
+
+nama: Lee Taeyong
+jurusan: RPL
+
+nama: Jeon Wonwoo
+jurusan: RPL 
