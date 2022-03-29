@@ -2,7 +2,7 @@ nama: Cecilia Siregar
 Jurusan: RPL
 
 nama: Lee Taeyong
-jurusan: RPL
+jurusan: Multimedia
 
 nama: Jeon Wonwoo
-jurusan: RPL 
+jurusan: RPL
